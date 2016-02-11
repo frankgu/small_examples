@@ -1,3 +1,2 @@
-# Nodejs express search example
-## live demo: https://nodejs-express-search.herokuapp.com/
-Remark: you can search for 'dongfenggu' which is me to check my status 
+# Nodejs express example using jade template
+## live demo: https://dongfeng-nodejs-express-jade.herokuapp.com/
