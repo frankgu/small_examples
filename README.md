@@ -1,2 +1,2 @@
-# treehouse_search_account
-example_link: https://treehouse-search-example.herokuapp.com/
+# Nodejs treehouse account search example
+live demo: https://nodejs-express-search.herokuapp.com/
