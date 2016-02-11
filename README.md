@@ -1,2 +1,3 @@
-# treehouse_express_example
-the express example for treehouse
+# Nodejs express search example
+## live demo: https://nodejs-express-search.herokuapp.com/
+Remark: you can search for 'dongfenggu' which is me to check my status 
