@@ -1,2 +1,1 @@
-# treehouse_express_example
-the express example for treehouse
+# all different kinds small projects that I created while I was learning
