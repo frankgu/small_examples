@@ -1,1 +1,5 @@
-# all different kinds small projects that I created while I was learning
+# JQuery Plugin - Animsition
+
+This plugin is a simple and easy way for CSS animated page transitions
+
+website: http://git.blivesta.com/animsition/ 
